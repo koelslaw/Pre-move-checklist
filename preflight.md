@@ -27,9 +27,6 @@
 - Seat and steering position set
 - Comms setup and paired (5 primary 7 alt) 
 
-
-### 
-
 ---
 
 ## Outside 
